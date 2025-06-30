@@ -1,0 +1,7 @@
+streamlit
+RandomForest
+scikit-learn
+pandas
+numpy
+os module
+pickle module
