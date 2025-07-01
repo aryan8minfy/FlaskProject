@@ -1,7 +1,7 @@
-streamlit
-RandomForest
-scikit-learn
-pandas
-numpy
-os module
-pickle module
+streamlit==1.46.1
+RandomForest==1.7.0
+scikit-learn==1.7.0
+pandas==2.3.0
+numpy==2.3.1
+os module==3.10
+pickle module==3.10
